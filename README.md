@@ -51,10 +51,6 @@ Key Result: The model improved predictive maintenance scheduling accuracy by 20�
 
 Repository: Private industry project – due to confidentiality, the full codebase cannot be open‑sourced. A high‑level description of the pipeline and lessons learned is included in this portfolio.
 
-Publications & Papers
-Secure and Trustworthy Data Aggregation in WSNs (ICTSE 2026) — DOI:  
- <!-- Replace with the actual DOI link -->
-See additional publications on my ResearchGate profile
 .
 Skills Matrix
 Category	Skills
